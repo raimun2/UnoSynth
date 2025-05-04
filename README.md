@@ -8,12 +8,12 @@ That’s the whole point.
 
 ## Core Architecture
 
-- 🎛️ 12 buttons (in a 4×3 matrix)
-- 🎚️ 4 potentiometers (analog inputs)
+- 🎹 12 buttons (in a 4×3 matrix)
+- 🎛️ 4 potentiometers (analog inputs)
 - 💡 4 LEDs (for visual feedback)
 - 🎙️ 1 audio input (analog jack)
 - 🔊 1 audio output (PWM jack)
-- ⬆️⬇️ 1 three-position switch (used for switching “pages” or modes)
+- 🎚️ 1 three-position switch (used for switching “pages” or modes)
 
 The hardware is already optimized and frozen. The soul of UnoSynth lies in the **software**.
 
